@@ -119,12 +119,19 @@ graph TD
 - 具备独立设计机器人机械系统的能力
 - 掌握有限元分析和结构优化方法
 
+## 平时考核作业
+
+- [25-26 学年 Python 课后考核](https://github.com/unnc-aim/aim-2526-py-coursework)
+- [25-26 学年 Cpp 课后考核](https://github.com/unnc-aim/aim-2526-cpp-coursework)
+- [25-26 学年 Linux 课后考核](https://github.com/unnc-aim/aim-2526-linux-coursework)
+- [25-26 学年 ROS2 课后考核](https://github.com/unnc-aim/aim-2526-ros2-coursework)
+
 ## 最终考核项目
 
 ### 算法/电控方向
 
-- [25-26 学年 算法视觉组 入队考核](https://github.com/unnc-aim/aim-vision-2526-final-assessment)
-- [25-26 学年 导航组 入队考核](https://github.com/unnc-aim/aim-navigation-2526-final-assessment)
+- [25-26 学年 算法视觉组 入队考核](https://github.com/unnc-aim/aim-2526-vision-final-assessment)
+- [25-26 学年 导航组 入队考核](https://github.com/unnc-aim/aim-2526-navigation-final-assessment)
 
 ### 机械方向
 
